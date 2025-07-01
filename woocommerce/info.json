@@ -1,16 +1,16 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "name": "Woocommerce Oblio.eu",
   "url": "https://www.oblio.eu/",
   "download_url": "https://obliosoftware.github.io/builds/woocommerce/oblio-woocommerce.zip",
   "requires": "6.3",
   "tested": "6.4",
   "requires_php": "7.4",
-  "last_updated": "2025-05-30 08:46:50",
+  "last_updated": "2025-07-01 06:56:24",
   "sections": {
     "description": "Implementare API pentru oblio.eu",
     "installation": "Please see <a href=https://codex.wordpress.org/Managing_Plugins#Installing_Plugins>Installing Plugins</a> in the WordPress Codex.",
-    "changelog": "<h4>1.0.71 - 2025-05-30 08:46:50</h4><ul><li>Bug fix noua versiune<br><br>bug fix new version</li></ul>"
+    "changelog": "<h4>1.0.72 - 2025-07-01 06:56:24</h4><ul><li>Bug fix buton genereaza fara descarcare<br><br>Bug fix buton genereaza fara descarcare</li></ul>"
   },
   "banners": {
     "1x": "https://www.oblio.eu/skins/images/favicons/oblio-icon-192x192.png"
