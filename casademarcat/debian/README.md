@@ -3,7 +3,7 @@ Plugin-ul Oblio casa de marcat compatibil cu sistemul de operare linux x86 Debia
 
 ## Descarcare
 ```
-wget https://obliosoftware.github.io/builds/casademarcat/debian/oblio-casademarcat.dab
+wget https://obliosoftware.github.io/builds/casademarcat/debian/oblio-casademarcat.deb
 ```
 
 ## Instalare
@@ -12,4 +12,5 @@ sudo dpkg -i ./oblio-casademarcat.deb
 ```
 
 ## Limitari
+
 Momentan functioneaza doar cu casele Datecs
