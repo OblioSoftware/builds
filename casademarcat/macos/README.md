@@ -2,8 +2,8 @@
 Plugin-ul Oblio casa de marcat compatibil cu sistemul de operare MacOS.
 
 ## Descarcare
-https://obliosoftware.github.io/builds/casademarcat/macos/oblio-casademarcat.arm64.dmg
-https://obliosoftware.github.io/builds/casademarcat/macos/oblio-casademarcat.intel64.dmg
+https://obliosoftware.github.io/builds/casademarcat/macos/oblio-casademarcat.arm64.dmg<br>
+https://obliosoftware.github.io/builds/casademarcat/macos/oblio-casademarcat.universals.dmg
 
 ## Instalare
 Deschide in Finder folderul "Downloads" si drag and drop la "Oblio Casa de Marcat.app" in sectiunea "Applications".
